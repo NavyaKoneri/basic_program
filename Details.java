@@ -11,7 +11,7 @@ class Details
 		String password="123@456";
 		long alternateno=8978531535l;
 		System.out.println(name);
-	    System.out.println(age);
+	        System.out.println(age);
 		System.out.println(height);
 		System.out.println(gender);
 		System.out.println(gmailid);
